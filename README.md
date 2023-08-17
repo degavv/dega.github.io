@@ -4,9 +4,7 @@ theme: architect
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Графік</title>
-</head>
-<body>
+    <title>графік</title>
 <style>
     .center {
         display: flex;
@@ -14,8 +12,10 @@ theme: architect
         align-items: center;
         height: 100vh;
     }
-</style>    
-<div class="center">
+</style>   
+</head>
+<body>
+ <div class="center">
 <img src="./Untitled.jpeg" alt="графік">
 </div>
 </body>
